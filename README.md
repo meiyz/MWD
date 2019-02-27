@@ -4,10 +4,10 @@
 <body>
 	<p><b>Nikola Tesla</b></p>
 	
-<p1>From Wikipedia, the free encyclopedia</p1>
+<p3>From Wikipedia, the free encyclopedia</p3>
 Jump to navigationJump to search
-<p2><i>For other uses, see Nikola Tesla (disambiguation).</i></p2>
-<p3><b>Nikola Tesla</b></p3>
+<p4><i>For other uses, see Nikola Tesla (disambiguation).</i></p4>
+<p5><b>Nikola Tesla</b></p5>
 Photograph of Nikola Tesla, a slender, moustachioed man with a thin face and pointed chin.
 c. 1896
 Born	10 July 1856
