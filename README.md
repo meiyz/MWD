@@ -2,7 +2,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <html>
 <body>
-	<p>Nikola Tesla</p>
+	<p><b>Nikola Tesla</b></p>
 	
 From Wikipedia, the free encyclopedia
 Jump to navigationJump to search
