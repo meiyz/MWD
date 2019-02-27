@@ -1,7 +1,7 @@
 # MWD
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <html>
-	<head>Nikola Tesla</head>
+	<title><i><b>Nikola Tesla</title></i></b>
 		<body>
 From Wikipedia, the free encyclopedia
 Jump to navigationJump to search
